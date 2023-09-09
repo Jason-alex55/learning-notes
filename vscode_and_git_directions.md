@@ -45,6 +45,6 @@ remote远程仓库。repository本地仓库，workspace工作区。
 
 
 # css peek
-可以通过按住左ctrl把鼠标放在id或class即可显示对应的css样式点击可直接跳转。
+可以通过按住左ctrl把鼠标放在id或class即可显示对应的css样式点击可直接跳转。这是一个VSCode的插件。
 
 
